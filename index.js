@@ -2,9 +2,9 @@ const startTime = 60
 const timeVariation = 100
 const shortTexts = ["Bananas are berries, but strawberries aren't. Botanical classifications can surprise;",
                     "Octopuses have three hearts. Two pump blood to the gills, and one pumps it to the rest of the body.",
-                    "The shortest war in history lasted just 38 to 45 minutes between Britain and Zanzibar on August 27, 1896."    
+                    "The shortest war in history lasted just 38 to 45 minutes between Britain and Zanzibar on August 27, 1896."  
+                    "Swift fingers dance across the keyboard, composing a symphony of words."
                     ]
-
 
 const longTexts = ['Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. The long shelf life is due to its low moisture content and acidic pH, creating an inhospitable environment for bacteria and microorganisms.', 
                     "In space, there's a giant diamond star named BPM 37093, located 50 light-years away from Earth. Dubbed 'Lucy' after the Beatles song 'Lucy in the Sky with Diamonds,' it's a crystallized white dwarf with a core of carbon and oxygen, estimated to be ten billion trillion trillion carats, making it the largest diamond ever discovered.",
